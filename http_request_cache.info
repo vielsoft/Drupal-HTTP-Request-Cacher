@@ -1,0 +1,9 @@
+name = Drupal HTTP Request Cacher
+description = Module that implements caching on drupal_http_request.
+version = 7.x-1.0
+core = 7.x
+package = LoL Oce
+
+; Information added by Gerald Villorente of X-Team on 2015-02-07
+project = "http_request_cache"
+datestamp = "1423261476"
